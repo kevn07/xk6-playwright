@@ -1,6 +1,8 @@
-module github.com/kevn07/xk6-playwright
+module github.com/wosp-io/xk6-playwright
 
-go 1.21
+go 1.17
+
+replace github.com/wosp-io/xk6-playwright => github.com/kevn07/xk6-playwright
 
 require (
 	github.com/playwright-community/playwright-go v0.3500.0
