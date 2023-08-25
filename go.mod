@@ -1,6 +1,6 @@
 module github.com/kevn07/xk6-playwright
 
-go 1.17
+go 1.21
 
 require (
 	github.com/playwright-community/playwright-go v0.3500.0
