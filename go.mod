@@ -3,7 +3,7 @@ module github.com/wosp-io/xk6-playwright
 go 1.17
 
 require (
-	github.com/playwright-community/playwright-go v0.2000.1
+	github.com/playwright-community/playwright-go v0.3500.0
 	go.k6.io/k6 v0.36.0
 )
 
